@@ -1,0 +1,14 @@
+{
+ "OpenPLi": {
+  "url": "https://downloads.openpli.org/json/osmini",
+  "model": "osmini"
+ },
+ "openATV": {
+  "url": "https://images.mynonpublic.com/openatv/json/osmini",
+  "model": "osmini"
+ },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/osmini",
+  "model": "osmini"
+ }
+}

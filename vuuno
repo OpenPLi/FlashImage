@@ -1,0 +1,18 @@
+{
+ "OpenPLi": {
+  "url": "https://downloads.openpli.org/json/vuuno",
+  "model": "vuuno"
+ },
+ "openATV": {
+  "url": "https://images.mynonpublic.com/openatv/json/vuuno",
+  "model": "vuuno"
+ },
+ "OpenBH": {
+  "url": "https://images.openbh.net/json/vuuno",
+  "model": "vuuno"
+ },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/vuuno",
+  "model": "vuuno"
+ }
+}

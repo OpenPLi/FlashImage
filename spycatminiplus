@@ -1,0 +1,14 @@
+{
+ "OpenPLi": {
+  "url": "https://downloads.openpli.org/json/spycatminiplus",
+  "model": "spycatminiplus"
+ },
+ "openATV": {
+  "url": "https://images.mynonpublic.com/openatv/json/spycatminiplus",
+  "model": "spycatminiplus"
+ },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/spycatminiplus",
+  "model": "spycatminiplus"
+ }
+}

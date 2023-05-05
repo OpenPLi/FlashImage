@@ -1,0 +1,22 @@
+{
+ "OpenPLi": {
+  "url": "https://downloads.openpli.org/json/h9combose",
+  "model": "h9combose"
+ },
+ "openATV": {
+  "url": "https://images.mynonpublic.com/openatv/json/zgemmah9twinse",
+  "model": "zgemmah9twinse"
+ },
+ "OpenBH": {
+  "url": "https://images.openbh.net/json/zgemmah9twinse",
+  "model": "zgemmah9twinse"
+ },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/h9combose",
+  "model": "h9combose"
+ },
+ "OpenViX": {
+  "url": "https://www.openvix.co.uk/json/zgemmah9twinse",
+  "model": "zgemmah9twinse"
+ }
+}

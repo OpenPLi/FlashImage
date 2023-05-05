@@ -1,0 +1,14 @@
+{
+ "OpenPLi": {
+  "url": "https://downloads.openpli.org/json/et6x00",
+  "model": "et6x00"
+ },
+ "openATV": {
+  "url": "https://images.mynonpublic.com/openatv/json/et6x00",
+  "model": "et6x00"
+ },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/et6x00",
+  "model": "et6x00"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "OpenPLi": {
+  "url": "https://downloads.openpli.org/json/vuultimo",
+  "model": "vuultimo"
+ },
+ "openATV": {
+  "url": "https://images.mynonpublic.com/openatv/json/vuultimo",
+  "model": "vuultimo"
+ },
+ "OpenBH": {
+  "url": "https://images.openbh.net/json/vuultimo",
+  "model": "vuultimo"
+ },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/vuultimo",
+  "model": "vuultimo"
+ }
+}

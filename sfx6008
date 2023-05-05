@@ -1,0 +1,26 @@
+{
+ "OpenPLi": {
+  "url": "https://downloads.openpli.org/json/sfx6008",
+  "model": "sfx6008"
+ },
+ "openATV": {
+  "url": "https://images.mynonpublic.com/openatv/json/sfx6008",
+  "model": "sfx6008"
+ },
+ "OpenBH": {
+  "url": "https://images.openbh.net/json/sfx6008",
+  "model": "sfx6008"
+ },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/sfx6008",
+  "model": "sfx6008"
+ },
+ "OpenViX": {
+  "url": "https://www.openvix.co.uk/json/sfx6008",
+  "model": "sfx6008"
+ },
+ "Open8eIGHT": {
+  "url": "http://openeight.de/json/sfx6008",
+  "model": "sfx6008"
+ }
+}

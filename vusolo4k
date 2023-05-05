@@ -1,0 +1,22 @@
+{
+ "OpenPLi": {
+  "url": "https://downloads.openpli.org/json/vusolo4k",
+  "model": "vusolo4k"
+ },
+ "openATV": {
+  "url": "https://images.mynonpublic.com/openatv/json/vusolo4k",
+  "model": "vusolo4k"
+ },
+ "OpenBH": {
+  "url": "https://images.openbh.net/json/vusolo4k",
+  "model": "vusolo4k"
+ },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/vusolo4k",
+  "model": "vusolo4k"
+ },
+ "OpenViX": {
+  "url": "https://www.openvix.co.uk/json/vusolo4k",
+  "model": "vusolo4k"
+ }
+}

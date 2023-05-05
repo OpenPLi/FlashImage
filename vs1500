@@ -1,0 +1,14 @@
+{
+ "OpenPLi": {
+  "url": "https://downloads.openpli.org/json/vs1500",
+  "model": "vs1500"
+ },
+ "openATV": {
+  "url": "https://images.mynonpublic.com/openatv/json/vimastec1500",
+  "model": "vimastec1500"
+ },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/vs1500",
+  "model": "vs1500"
+ }
+}

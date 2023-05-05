@@ -1,0 +1,14 @@
+{
+ "OpenPLi": {
+  "url": "https://downloads.openpli.org/json/purehd",
+  "model": "purehd"
+ },
+ "openATV": {
+  "url": "https://images.mynonpublic.com/openatv/json/purehd",
+  "model": "purehd"
+ },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/purehd",
+  "model": "purehd"
+ }
+}

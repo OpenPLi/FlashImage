@@ -1,0 +1,14 @@
+{
+ "OpenPLi": {
+  "url": "https://downloads.openpli.org/json/xp1000",
+  "model": "xp1000"
+ },
+ "openATV": {
+  "url": "https://images.mynonpublic.com/openatv/json/xp1000max",
+  "model": "xp1000max"
+ },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/xp1000",
+  "model": "xp1000"
+ }
+}

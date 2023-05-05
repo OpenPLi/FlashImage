@@ -1,0 +1,22 @@
+{
+ "OpenPLi": {
+  "url": "https://downloads.openpli.org/json/vuultimo4k",
+  "model": "vuultimo4k"
+ },
+ "openATV": {
+  "url": "https://images.mynonpublic.com/openatv/json/vuultimo4k",
+  "model": "vuultimo4k"
+ },
+ "OpenBH": {
+  "url": "https://images.openbh.net/json/vuultimo4k",
+  "model": "vuultimo4k"
+ },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/vuultimo4k",
+  "model": "vuultimo4k"
+ },
+ "OpenViX": {
+  "url": "https://www.openvix.co.uk/json/vuultimo4k",
+  "model": "vuultimo4k"
+ }
+}

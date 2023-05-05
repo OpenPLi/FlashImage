@@ -1,0 +1,10 @@
+{
+ "OpenPLi": {
+  "url": "https://downloads.openpli.org/json/hd1200",
+  "model": "hd1200"
+ },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/hd1200",
+  "model": "hd1200"
+ }
+}

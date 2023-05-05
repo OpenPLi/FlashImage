@@ -1,0 +1,14 @@
+{
+ "OpenPLi": {
+  "url": "https://downloads.openpli.org/json/mbtwinplus",
+  "model": "mbtwinplus"
+ },
+ "openATV": {
+  "url": "https://images.mynonpublic.com/openatv/json/mbtwinplus",
+  "model": "mbtwinplus"
+ },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/mbtwinplus",
+  "model": "mbtwinplus"
+ }
+}

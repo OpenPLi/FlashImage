@@ -1,0 +1,14 @@
+{
+ "OpenPLi": {
+  "url": "https://downloads.openpli.org/json/fusionhd",
+  "model": "fusionhd"
+ },
+ "openATV": {
+  "url": "https://images.mynonpublic.com/openatv/json/fusionhd",
+  "model": "fusionhd"
+ },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/fusionhd",
+  "model": "fusionhd"
+ }
+}

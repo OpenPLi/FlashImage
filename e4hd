@@ -1,0 +1,14 @@
+{
+ "OpenPLi": {
+  "url": "https://downloads.openpli.org/json/e4hd",
+  "model": "e4hd"
+ },
+ "openATV": {
+  "url": "https://images.mynonpublic.com/openatv/json/e4hd",
+  "model": "e4hd"
+ },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/e4hd",
+  "model": "e4hd"
+ }
+}

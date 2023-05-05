@@ -1,0 +1,26 @@
+{
+ "OpenPLi": {
+  "url": "https://downloads.openpli.org/json/gbue4k",
+  "model": "gbue4k"
+ },
+ "openATV": {
+  "url": "https://images.mynonpublic.com/openatv/json/gbue4k",
+  "model": "gbue4k"
+ },
+ "OpenBH": {
+  "url": "https://images.openbh.net/json/gbue4k",
+  "model": "gbue4k"
+ },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/gbue4k",
+  "model": "gbue4k"
+ },
+ "OpenViX": {
+  "url": "https://www.openvix.co.uk/json/gbue4k",
+  "model": "gbue4k"
+ },
+ "TeamBlue": {
+  "url": "https://images.teamblue.tech/json/gbue4k",
+  "model": "gbue4k"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "OpenPLi": {
+  "url": "https://downloads.openpli.org/json/vuduo2",
+  "model": "vuduo2"
+ },
+ "openATV": {
+  "url": "https://images.mynonpublic.com/openatv/json/vuduo2",
+  "model": "vuduo2"
+ },
+ "OpenBH": {
+  "url": "https://images.openbh.net/json/vuduo2",
+  "model": "vuduo2"
+ },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/vuduo2",
+  "model": "vuduo2"
+ },
+ "OpenViX": {
+  "url": "https://www.openvix.co.uk/json/vuduo2",
+  "model": "vuduo2"
+ }
+}

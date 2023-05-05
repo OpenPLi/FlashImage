@@ -1,0 +1,18 @@
+{
+ "OpenPLi": {
+  "url": "https://downloads.openpli.org/json/pulse4kmini",
+  "model": "pulse4kmini"
+ },
+ "openATV": {
+  "url": "https://images.mynonpublic.com/openatv/json/pulse4kmini",
+  "model": "pulse4kmini"
+ },
+ "OpenBH": {
+  "url": "https://images.openbh.net/json/pulse4kmini",
+  "model": "pulse4kmini"
+ },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/pulse4kmini",
+  "model": "pulse4kmini"
+ }
+}
