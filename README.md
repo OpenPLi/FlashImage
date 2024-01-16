@@ -1,1 +1,0 @@
-Test FlashImage for AREDELTASAT 
