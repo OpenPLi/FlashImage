@@ -1,14 +1,6 @@
 {
- "OpenPLi": {
-  "url": "https://downloads.openpli.org/json/ustym4ks2ottx",
-  "model": "ustym4ks2ottx"
- },
- "openATV": {
-  "url": "https://images.mynonpublic.com/openatv/json/ustym4ks2ottx",
-  "model": "ustym4ks2ottx"
- },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/ustym4ks2ottx",
-  "model": "ustym4ks2ottx"
+ "AREADELTASAT": {
+  "url": "https://images.areadeltasat.net/json/ustym4ks2ottx",
+  "model": "ustym4kpro"
  }
 }
