@@ -11,6 +11,10 @@
   "url": "https://images.openbh.net/json/gbquad4k",
   "model": "gbquad4k"
  },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/gbquad4k",
+  "model": "gbquad4k"
+ },
  "OpenViX": {
   "url": "https://www.openvix.co.uk/json/gbquad4k",
   "model": "gbquad4k"

@@ -3,3 +3,8 @@
   "url": "https://downloads.openpli.org/json/hd51",
   "model": "hd51"
  },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/hd51",
+  "model": "hd51"
+ }
+}

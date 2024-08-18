@@ -7,3 +7,8 @@
   "url": "https://images.mynonpublic.com/openatv/json/vipert2c",
   "model": "vipert2c"
  },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/vipert2c",
+  "model": "vipert2c"
+ }
+}

@@ -11,6 +11,10 @@
   "url": "https://images.openbh.net/json/vuuno4kse",
   "model": "vuuno4kse"
  },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/vuuno4kse",
+  "model": "vuuno4kse"
+ },
  "OpenViX": {
   "url": "https://www.openvix.co.uk/json/vuuno4kse",
   "model": "vuuno4kse"

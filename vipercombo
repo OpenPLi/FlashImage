@@ -7,3 +7,8 @@
   "url": "https://images.mynonpublic.com/openatv/json/vipercombo",
   "model": "vipercombo"
  },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/vipercombo",
+  "model": "vipercombo"
+ }
+}

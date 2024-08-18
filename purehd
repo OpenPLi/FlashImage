@@ -7,3 +7,8 @@
   "url": "https://images.mynonpublic.com/openatv/json/purehd",
   "model": "purehd"
  },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/purehd",
+  "model": "purehd"
+ }
+}

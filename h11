@@ -11,6 +11,10 @@
   "url": "https://images.openbh.net/json/zgemmah11s",
   "model": "zgemmah11s"
  },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/h11",
+  "model": "h11"
+ },
  "OpenViX": {
   "url": "https://www.openvix.co.uk/json/zgemmah11s",
   "model": "zgemmah11s"

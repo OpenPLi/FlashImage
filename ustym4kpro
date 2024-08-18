@@ -11,9 +11,12 @@
   "url": "https://images.openbh.net/json/ustym4kpro",
   "model": "ustym4kpro"
  },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/ustym4kpro",
+  "model": "ustym4kpro"
+ },
  "AREADELTASAT": {
   "url": "https://images.areadeltasat.net/json/ustym4kpro",
   "model": "ustym4kpro"
  }
 }
-

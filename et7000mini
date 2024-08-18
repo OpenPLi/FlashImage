@@ -3,3 +3,8 @@
   "url": "https://downloads.openpli.org/json/et7000mini",
   "model": "et7000mini"
  },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/et7000mini",
+  "model": "et7000mini"
+ }
+}

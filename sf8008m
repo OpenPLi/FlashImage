@@ -7,6 +7,10 @@
   "url": "https://images.mynonpublic.com/openatv/json/sf8008m",
   "model": "sf8008m"
  },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/sf8008m",
+  "model": "sf8008m"
+ },
  "OpenViX": {
   "url": "https://www.openvix.co.uk/json/sf8008m",
   "model": "sf8008m"

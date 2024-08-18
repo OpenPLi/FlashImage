@@ -7,3 +7,8 @@
   "url": "https://images.mynonpublic.com/openatv/json/zgemmah6",
   "model": "zgemmah6"
  },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/h6",
+  "model": "h6"
+ }
+}
