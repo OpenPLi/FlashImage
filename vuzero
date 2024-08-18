@@ -11,10 +11,6 @@
   "url": "https://images.openbh.net/json/vuzero",
   "model": "vuzero"
  },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/vuzero",
-  "model": "vuzero"
- },
  "OpenViX": {
   "url": "https://www.openvix.co.uk/json/vuzero",
   "model": "vuzero"

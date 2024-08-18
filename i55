@@ -3,8 +3,3 @@
   "url": "https://downloads.openpli.org/json/i55",
   "model": "i55"
  },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/i55",
-  "model": "i55"
- }
-}

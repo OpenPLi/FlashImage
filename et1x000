@@ -3,8 +3,3 @@
   "url": "https://downloads.openpli.org/json/et1x000",
   "model": "et1x000"
  },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/et1x000",
-  "model": "et1x000"
- }
-}

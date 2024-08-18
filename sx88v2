@@ -11,10 +11,6 @@
   "url": "https://images.openbh.net/json/sx88v2",
   "model": "sx88v2"
  },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/sx88v2",
-  "model": "sx88v2"
- },
  "Open8eIGHT": {
   "url": "http://openeight.de/json/sx88v2",
   "model": "sx88v2"

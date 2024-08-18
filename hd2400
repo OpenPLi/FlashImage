@@ -3,8 +3,3 @@
   "url": "https://downloads.openpli.org/json/hd2400",
   "model": "hd2400"
  },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/hd2400",
-  "model": "hd2400"
- }
-}

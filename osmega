@@ -7,10 +7,6 @@
   "url": "https://images.mynonpublic.com/openatv/json/osmega",
   "model": "osmega"
  },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/osmega",
-  "model": "osmega"
- },
  "OpenViX": {
   "url": "https://www.openvix.co.uk/json/osmega",
   "model": "osmega"

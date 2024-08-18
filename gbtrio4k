@@ -11,10 +11,6 @@
   "url": "https://images.openbh.net/json/gbtrio4k",
   "model": "gbtrio4k"
  },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/gbtrio4k",
-  "model": "gbtrio4k"
- },
  "OpenViX": {
   "url": "https://www.openvix.co.uk/json/gbtrio4k",
   "model": "gbtrio4k"

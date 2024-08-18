@@ -7,10 +7,6 @@
   "url": "https://images.mynonpublic.com/openatv/json/osmio4k",
   "model": "osmio4k"
  },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/osmio4k",
-  "model": "osmio4k"
- },
  "OpenViX": {
   "url": "https://www.openvix.co.uk/json/osmio4k",
   "model": "osmio4k"

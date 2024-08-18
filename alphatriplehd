@@ -3,8 +3,3 @@
   "url": "https://downloads.openpli.org/json/alphatriplehd",
   "model": "alphatriplehd"
  },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/alphatriplehd",
-  "model": "alphatriplehd"
- }
-}
