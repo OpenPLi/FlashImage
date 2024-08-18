@@ -1,14 +1,1 @@
-{
- "OpenPLi": {
-  "url": "https://downloads.openpli.org/json/mbmicro",
-  "model": "mbmicro"
- },
- "openATV": {
-  "url": "https://images.mynonpublic.com/openatv/json/mbmicro",
-  "model": "mbmicro"
- },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/mbmicro",
-  "model": "mbmicro"
- }
-}
+{"OpenPLi": {"url": "https://downloads.openpli.org/json/mbmicro", "model": "mbmicro"}, "openATV": {"url": "https://images.mynonpublic.com/openatv/json/mbmicro", "model": "mbmicro"}}

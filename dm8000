@@ -1,14 +1,1 @@
-{
- "OpenPLi": {
-  "url": "https://downloads.openpli.org/json/dm8000",
-  "model": "dm8000"
- },
- "openATV": {
-  "url": "https://images.mynonpublic.com/openatv/json/dm8000",
-  "model": "dm8000"
- },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/dm8000",
-  "model": "dm8000"
- }
-}
+{"OpenPLi": {"url": "https://downloads.openpli.org/json/dm8000", "model": "dm8000"}, "openATV": {"url": "https://images.mynonpublic.com/openatv/json/dm8000", "model": "dm8000"}}

@@ -1,10 +1,1 @@
-{
- "OpenPLi": {
-  "url": "https://downloads.openpli.org/json/sh1",
-  "model": "sh1"
- },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/sh1",
-  "model": "sh1"
- }
-}
+{"OpenPLi": {"url": "https://downloads.openpli.org/json/sh1", "model": "sh1"}}

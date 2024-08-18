@@ -1,14 +1,1 @@
-{
- "OpenPLi": {
-  "url": "https://downloads.openpli.org/json/osnino",
-  "model": "osnino"
- },
- "openATV": {
-  "url": "https://images.mynonpublic.com/openatv/json/osnino",
-  "model": "osnino"
- },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/osnino",
-  "model": "osnino"
- }
-}
+{"OpenPLi": {"url": "https://downloads.openpli.org/json/osnino", "model": "osnino"}, "openATV": {"url": "https://images.mynonpublic.com/openatv/json/osnino", "model": "osnino"}}

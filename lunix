@@ -1,14 +1,1 @@
-{
- "OpenPLi": {
-  "url": "https://downloads.openpli.org/json/lunix",
-  "model": "lunix"
- },
- "openATV": {
-  "url": "https://images.mynonpublic.com/openatv/json/lunix",
-  "model": "lunix"
- },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/lunix",
-  "model": "lunix"
- }
-}
+{"OpenPLi": {"url": "https://downloads.openpli.org/json/lunix", "model": "lunix"}, "openATV": {"url": "https://images.mynonpublic.com/openatv/json/lunix", "model": "lunix"}}

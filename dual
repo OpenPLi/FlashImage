@@ -1,14 +1,1 @@
-{
- "OpenPLi": {
-  "url": "https://downloads.openpli.org/json/dual",
-  "model": "dual"
- },
- "openATV": {
-  "url": "https://images.mynonpublic.com/openatv/json/dual",
-  "model": "dual"
- },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/dual",
-  "model": "dual"
- }
-}
+{"OpenPLi": {"url": "https://downloads.openpli.org/json/dual", "model": "dual"}, "openATV": {"url": "https://images.mynonpublic.com/openatv/json/dual", "model": "dual"}}

@@ -1,18 +1,1 @@
-{
- "OpenPLi": {
-  "url": "https://downloads.openpli.org/json/osmini4k",
-  "model": "osmini4k"
- },
- "openATV": {
-  "url": "https://images.mynonpublic.com/openatv/json/osmini4k",
-  "model": "osmini4k"
- },
- "OpenBh": {
-  "url": "https://images.openbh.net/json/osmini4k",
-  "model": "osmini4k"
- },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/osmini4k",
-  "model": "osmini4k"
- }
-}
+{"OpenPLi": {"url": "https://downloads.openpli.org/json/osmini4k", "model": "osmini4k"}, "openATV": {"url": "https://images.mynonpublic.com/openatv/json/osmini4k", "model": "osmini4k"}, "OpenBh": {"url": "https://images.openbh.net/json/osmini4k", "model": "osmini4k"}}

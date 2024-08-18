@@ -1,14 +1,1 @@
-{
- "OpenPLi": {
-  "url": "https://downloads.openpli.org/json/spycat",
-  "model": "spycat"
- },
- "openATV": {
-  "url": "https://images.mynonpublic.com/openatv/json/spycat",
-  "model": "spycat"
- },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/spycat",
-  "model": "spycat"
- }
-}
+{"OpenPLi": {"url": "https://downloads.openpli.org/json/spycat", "model": "spycat"}, "openATV": {"url": "https://images.mynonpublic.com/openatv/json/spycat", "model": "spycat"}}

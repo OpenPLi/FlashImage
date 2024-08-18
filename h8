@@ -1,18 +1,1 @@
-{
- "OpenPLi": {
-  "url": "https://downloads.openpli.org/json/h8",
-  "model": "h8"
- },
- "OpenBh": {
-  "url": "https://images.openbh.net/json/zgemmah82h",
-  "model": "zgemmah82h"
- },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/h8",
-  "model": "h8"
- },
- "OpenViX": {
-  "url": "https://www.openvix.co.uk/json/zgemmah82h",
-  "model": "zgemmah82h"
- }
-}
+{"OpenPLi": {"url": "https://downloads.openpli.org/json/h8", "model": "h8"}, "OpenBh": {"url": "https://images.openbh.net/json/zgemmah82h", "model": "zgemmah82h"}, "OpenViX": {"url": "https://www.openvix.co.uk/json/zgemmah82h", "model": "zgemmah82h"}}

@@ -1,14 +1,1 @@
-{
- "OpenPLi": {
-  "url": "https://downloads.openpli.org/json/viperslim",
-  "model": "viperslim"
- },
- "openATV": {
-  "url": "https://images.mynonpublic.com/openatv/json/viperslim",
-  "model": "viperslim"
- },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/viperslim",
-  "model": "viperslim"
- }
-}
+{"OpenPLi": {"url": "https://downloads.openpli.org/json/viperslim", "model": "viperslim"}, "openATV": {"url": "https://images.mynonpublic.com/openatv/json/viperslim", "model": "viperslim"}}

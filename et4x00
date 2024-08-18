@@ -1,14 +1,1 @@
-{
- "OpenPLi": {
-  "url": "https://downloads.openpli.org/json/et4x00",
-  "model": "et4x00"
- },
- "openATV": {
-  "url": "https://images.mynonpublic.com/openatv/json/et4x00",
-  "model": "et4x00"
- },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/et4x00",
-  "model": "et4x00"
- }
-}
+{"OpenPLi": {"url": "https://downloads.openpli.org/json/et4x00", "model": "et4x00"}, "openATV": {"url": "https://images.mynonpublic.com/openatv/json/et4x00", "model": "et4x00"}}

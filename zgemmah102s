@@ -1,14 +1,1 @@
-{
- "OpenPLi": {
-  "url": "https://downloads.openpli.org/json/h10",
-  "model": "h10"
- },
- "openATV": {
-  "url": "https://images.mynonpublic.com/openatv/json/zgemmah102s",
-  "model": "zgemmah102s"
- },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/h10",
-  "model": "h10"
- }
-}
+{"OpenPLi": {"url": "https://downloads.openpli.org/json/h10", "model": "h10"}, "openATV": {"url": "https://images.mynonpublic.com/openatv/json/zgemmah102s", "model": "zgemmah102s"}}

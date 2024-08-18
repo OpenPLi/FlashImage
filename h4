@@ -1,14 +1,1 @@
-{
- "OpenPLi": {
-  "url": "https://downloads.openpli.org/json/h4",
-  "model": "h4"
- },
- "openATV": {
-  "url": "https://images.mynonpublic.com/openatv/json/zgemmah4",
-  "model": "zgemmah4"
- },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/h4",
-  "model": "h4"
- }
-}
+{"OpenPLi": {"url": "https://downloads.openpli.org/json/h4", "model": "h4"}, "openATV": {"url": "https://images.mynonpublic.com/openatv/json/zgemmah4", "model": "zgemmah4"}}

@@ -1,18 +1,1 @@
-{
- "OpenPLi": {
-  "url": "https://downloads.openpli.org/json/pulse4k",
-  "model": "pulse4k"
- },
- "openATV": {
-  "url": "https://images.mynonpublic.com/openatv/json/pulse4k",
-  "model": "pulse4k"
- },
- "OpenBh": {
-  "url": "https://images.openbh.net/json/pulse4k",
-  "model": "pulse4k"
- },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/pulse4k",
-  "model": "pulse4k"
- }
-}
+{"OpenPLi": {"url": "https://downloads.openpli.org/json/pulse4k", "model": "pulse4k"}, "openATV": {"url": "https://images.mynonpublic.com/openatv/json/pulse4k", "model": "pulse4k"}, "OpenBh": {"url": "https://images.openbh.net/json/pulse4k", "model": "pulse4k"}}

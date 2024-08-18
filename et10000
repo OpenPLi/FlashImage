@@ -1,18 +1,1 @@
-{
- "OpenPLi": {
-  "url": "https://downloads.openpli.org/json/et10000",
-  "model": "et10000"
- },
- "openATV": {
-  "url": "https://images.mynonpublic.com/openatv/json/et10000",
-  "model": "et10000"
- },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/et10000",
-  "model": "et10000"
- },
- "OpenViX": {
-  "url": "https://www.openvix.co.uk/json/et10000",
-  "model": "et10000"
- }
-}
+{"OpenPLi": {"url": "https://downloads.openpli.org/json/et10000", "model": "et10000"}, "openATV": {"url": "https://images.mynonpublic.com/openatv/json/et10000", "model": "et10000"}, "OpenViX": {"url": "https://www.openvix.co.uk/json/et10000", "model": "et10000"}}
