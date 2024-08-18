@@ -3,4 +3,8 @@
   "url": "https://downloads.openpli.org/json/xpeedc",
   "model": "xpeedc"
  },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/xpeedc",
+  "model": "xpeedc"
+ }
 }

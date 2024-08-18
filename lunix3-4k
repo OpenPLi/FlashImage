@@ -3,5 +3,8 @@
   "url": "https://downloads.openpli.org/json/lunix3-4k",
   "model": "lunix3-4k"
  },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/lunix34k",
+  "model": "lunix34k"
+ }
 }
-

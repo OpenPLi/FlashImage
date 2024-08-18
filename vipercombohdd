@@ -7,6 +7,10 @@
   "url": "https://images.mynonpublic.com/openatv/json/vipercombohdd",
   "model": "vipercombohdd"
  },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/vipercombohdd",
+  "model": "vipercombohdd"
+ },
  "OpenViX": {
   "url": "https://www.openvix.co.uk/json/vipercombohdd",
   "model": "vipercombohdd"

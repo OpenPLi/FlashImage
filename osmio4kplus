@@ -11,6 +11,10 @@
   "url": "https://images.openbh.net/json/osmio4kplus",
   "model": "osmio4kplus"
  },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/osmio4kplus",
+  "model": "osmio4kplus"
+ },
  "OpenViX": {
   "url": "https://www.openvix.co.uk/json/osmio4kplus",
   "model": "osmio4kplus"

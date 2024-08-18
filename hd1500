@@ -3,4 +3,8 @@
   "url": "https://downloads.openpli.org/json/hd1500",
   "model": "hd1500"
  },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/hd1500",
+  "model": "hd1500"
+ }
 }

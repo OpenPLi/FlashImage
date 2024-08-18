@@ -7,4 +7,8 @@
   "url": "https://images.mynonpublic.com/openatv/json/novaler4k",
   "model": "novaler4k"
  },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/multibox",
+  "model": "multibox"
+ }
 }

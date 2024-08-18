@@ -11,4 +11,8 @@
   "url": "https://images.openbh.net/json/pulse4kmini",
   "model": "pulse4kmini"
  },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/pulse4kmini",
+  "model": "pulse4kmini"
+ }
 }

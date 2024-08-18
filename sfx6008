@@ -11,6 +11,10 @@
   "url": "https://images.openbh.net/json/sfx6008",
   "model": "sfx6008"
  },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/sfx6008",
+  "model": "sfx6008"
+ },
  "OpenViX": {
   "url": "https://www.openvix.co.uk/json/sfx6008",
   "model": "sfx6008"

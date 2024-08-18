@@ -11,6 +11,10 @@
   "url": "https://images.openbh.net/json/vuzero4k",
   "model": "vuzero4k"
  },
+ "Open Vision": {
+  "url": "https://images.openvision.dedyn.io/json/vuzero4k",
+  "model": "vuzero4k"
+ },
  "OpenViX": {
   "url": "https://www.openvix.co.uk/json/vuzero4k",
   "model": "vuzero4k"
