@@ -3,8 +3,4 @@
   "url": "https://downloads.openpli.org/json/hd11",
   "model": "hd11"
  },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/hd11",
-  "model": "hd11"
- }
 }

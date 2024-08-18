@@ -11,10 +11,6 @@
   "url": "https://images.openbh.net/json/vuduo2",
   "model": "vuduo2"
  },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/vuduo2",
-  "model": "vuduo2"
- },
  "OpenViX": {
   "url": "https://www.openvix.co.uk/json/vuduo2",
   "model": "vuduo2"

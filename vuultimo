@@ -11,8 +11,4 @@
   "url": "https://images.openbh.net/json/vuultimo",
   "model": "vuultimo"
  },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/vuultimo",
-  "model": "vuultimo"
- }
 }

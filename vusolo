@@ -11,8 +11,4 @@
   "url": "https://images.openbh.net/json/vusolo",
   "model": "vusolo"
  },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/vusolo",
-  "model": "vusolo"
- }
 }

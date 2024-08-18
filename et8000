@@ -7,10 +7,6 @@
   "url": "https://images.mynonpublic.com/openatv/json/et8000",
   "model": "et8000"
  },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/et8000",
-  "model": "et8000"
- },
  "OpenViX": {
   "url": "https://www.openvix.co.uk/json/et8000",
   "model": "et8000"

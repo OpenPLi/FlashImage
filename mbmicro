@@ -7,8 +7,4 @@
   "url": "https://images.mynonpublic.com/openatv/json/mbmicro",
   "model": "mbmicro"
  },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/mbmicro",
-  "model": "mbmicro"
- }
 }

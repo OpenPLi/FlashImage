@@ -11,10 +11,6 @@
   "url": "https://images.openbh.net/json/gbue4k",
   "model": "gbue4k"
  },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/gbue4k",
-  "model": "gbue4k"
- },
  "OpenViX": {
   "url": "https://www.openvix.co.uk/json/gbue4k",
   "model": "gbue4k"

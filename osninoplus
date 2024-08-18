@@ -11,8 +11,4 @@
   "url": "https://images.openbh.net/json/osninoplus",
   "model": "osninoplus"
  },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/osninoplus",
-  "model": "osninoplus"
- }
 }

@@ -3,8 +3,4 @@
   "url": "https://downloads.openpli.org/json/hd530c",
   "model": "hd530c"
  },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/hd530c",
-  "model": "hd530c"
- }
 }

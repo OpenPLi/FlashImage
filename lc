@@ -3,8 +3,4 @@
   "url": "https://downloads.openpli.org/json/lc",
   "model": "lc"
  },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/lc",
-  "model": "lc"
- }
 }

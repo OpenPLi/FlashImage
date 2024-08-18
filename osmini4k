@@ -11,8 +11,4 @@
   "url": "https://images.openbh.net/json/osmini4k",
   "model": "osmini4k"
  },
- "Open Vision": {
-  "url": "https://images.openvision.dedyn.io/json/osmini4k",
-  "model": "osmini4k"
- }
 }
